@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nayab%20Azeem&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Cinematic%20Web%20Builder&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8E7CFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;CS+Undergrad+%40+UET+Lahore;Three.js+%7C+GSAP+%7C+WebGL;Building+Cinematic+3D+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8E7CFF&center=true&vCenter=true&width=650&lines=Curious+Builder+%7C+Frontend+Developer;I+Turn+Curiosity+Into+Code;Three.js+%7C+GSAP+%7C+WebGL;Every+Project+Is+an+Experiment" />
 
 <br/>
 
@@ -24,10 +24,17 @@
 
 ### 🌌 About Me
 
+I don't just write code — I experiment with it. Every project starts with a question:
+*"What if this felt like a movie instead of a website?"*
+
+That curiosity is what pushed me to teach myself Three.js, GSAP, and WebGL, and turn
+them into fully immersive, story-driven experiences instead of ordinary pages.
+
 ```yaml
 name: Nayab Azeem (Bhatti)
 role: Frontend Developer
 education: Computer Science @ UET Lahore
+approach: Curiosity-driven — I learn by building, not just studying
 focus: Cinematic, story-driven, 3D web experiences
 tools: [Three.js, GSAP, WebGL, ScrollTrigger, Web Audio API]
 inspiration: [Studio Ghibli, Blade Runner 2049, Interstellar, Awwwards]
