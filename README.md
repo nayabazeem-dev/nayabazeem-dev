@@ -1,51 +1,103 @@
-Hi there, I'm Nayab Azeem! 👋
-💻 Front-End Developer Intern | 🎓 Computer Science Student
+<div align="center">
 
-Welcome to my GitHub profile! I'm Nayab Azeem, a passionate Front-End Developer Intern and a 3rd-semester student at the University of Engineering and Technology (UET), Lahore Sub Campus Narowal.
+NAYAB AZEEM
+Front-End Developer Intern
 
-I'm enthusiastic about web development, designing user-friendly interfaces, and continuously learning new technologies to improve my skills.
+Building clean, responsive, and user-friendly web experiences.
 
-👩‍💻 About Me
-🎓 Currently studying at the University of Engineering and Technology, Lahore.
-💼 Working as a Front-End Developer Intern.
-🌱 Learning and improving my web development skills.
-💻 Interested in creating responsive and interactive websites.
-🚀 Building projects to gain practical experience.
-🎯 Goal: To become a skilled and professional software developer.
-🤝 Open to learning, collaboration, and new opportunities.
-🛠️ Skills & Technologies
-Frontend Development: HTML5, CSS3, JavaScript
-Responsive Design: Creating websites for desktop, tablet, and mobile devices.
-Tools: Git, GitHub, and VS Code
+<a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
 
-Note: Keep only the technologies you have actually learned or used in your projects.
+<br/>
 
-📂 My Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Developer+Intern;Computer+Science+Student;Passionate+About+Web+Development;Always+Learning+%26+Building" alt="Typing SVG"/>
 
-I enjoy building projects that help me apply my knowledge and develop practical skills.
+</div>
 
-🌐 Website Development: Creating modern and responsive websites.
-🎨 UI Development: Designing clean and user-friendly interfaces.
-🚀 Learning Projects: Exploring new concepts and improving my coding skills.
+01   About Me
 
-Check out my repositories to see what I'm working on!
+I'm Nayab Azeem, a Front-End Developer Intern and a third-semester student at the University of Engineering and Technology (UET), Lahore.
 
-📈 My Goals
-Strengthen my front-end development skills.
-Build creative and responsive web applications.
-Learn modern web development frameworks and tools.
-Contribute to real-world projects.
-Grow as a developer through continuous learning and practice.
-🤝 Let's Connect!
+I enjoy transforming ideas into responsive, visually appealing, and interactive web experiences. I'm focused on strengthening my development skills, writing clean code, and building projects that solve real-world problems.
 
-I'm always happy to connect with fellow developers, learn from others, and explore new opportunities.
+🎓   Education: 3rd-Semester Student — UET Lahore
+💻   Role: Front-End Developer Intern
+🌐   Focus: Front-End Development & UI Design
+🌱   Currently: Learning, building, and improving
+🎯   Goal: Creating meaningful digital experiences
+02   Tech Stack
 
-💼 LinkedIn: Add your LinkedIn profile URL here.
-🐙 GitHub: You're already here!
-📧 Email: Add your professional email address here.
-✨ "Learning, building, and growing one line of code at a time."
+<div align="center">
 
-Thanks for visiting my profile! 😊
+Languages & Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript"/>
+
+Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git, GitHub"/>
+
+</div>
+
+03   Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_REPOSITORY"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_REPOSITORY&theme=tokyonight&hide_border=true" alt="Featured Project"/> </a>
+
+</div>
+
+I enjoy developing websites that combine thoughtful design with practical functionality.
+
+Areas of interest:
+
+Responsive website development
+Modern landing pages
+Interactive user interfaces
+Educational websites and web applications
+
+Replace the sample repository information above with an actual project from your GitHub account.
+
+04   GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+05   Beyond the Code
+
+I believe that becoming a great developer is about more than writing code. It's about curiosity, consistency, problem-solving, and the willingness to keep learning.
+
+I'm working toward becoming a developer who can turn complex ideas into simple, accessible, and engaging digital experiences.
+
+06   Let's Connect
+
+<div align="center">
+
+Have a project, an idea, or an opportunity?
+
+I'm always interested in connecting with developers, learning from the community, and exploring opportunities to grow.
+
+<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/> </a>
+
+<br/><br/>
+
+Nayab Azeem
+Front-End Developer Intern · UET Lahore
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
+
  
 
 
