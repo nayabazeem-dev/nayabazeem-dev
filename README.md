@@ -1,7 +1,7 @@
 Hi there, I'm Nayab Azeem! 👋
 💻 Front-End Developer Intern | 🎓 Computer Science Student
 
-Welcome to my GitHub profile! I'm Nayab Azeem, a passionate Front-End Developer Intern and a 3rd-semester student at the University of Engineering and Technology (UET), Lahore.
+Welcome to my GitHub profile! I'm Nayab Azeem, a passionate Front-End Developer Intern and a 3rd-semester student at the University of Engineering and Technology (UET), Lahore Sub Campus Narowal.
 
 I'm enthusiastic about web development, designing user-friendly interfaces, and continuously learning new technologies to improve my skills.
 
