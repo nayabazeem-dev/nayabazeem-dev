@@ -1,103 +1,76 @@
 <div align="center">
 
-NAYAB AZEEM
-Front-End Developer Intern
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nayab+Azeem+%F0%9F%91%8B;Frontend+Developer+Intern;CS+Student+%40+UET+Lahore" alt="Typing SVG" />
 
-Building clean, responsive, and user-friendly web experiences.
+<p>Building clean, responsive and fast websites 🚀</p>
 
-<a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Developer+Intern;Computer+Science+Student;Passionate+About+Web+Development;Always+Learning+%26+Building" alt="Typing SVG"/>
+<a href="https://github.com/nayabazeem-dev"><img src="https://img.shields.io/badge/GitHub-nayabazeem--dev-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" /></a>
 
 </div>
 
-01   About Me
+---
 
-I'm Nayab Azeem, a Front-End Developer Intern and a third-semester student at the University of Engineering and Technology (UET), Lahore.
+## 👨‍💻 About Me
 
-I enjoy transforming ideas into responsive, visually appealing, and interactive web experiences. I'm focused on strengthening my development skills, writing clean code, and building projects that solve real-world problems.
+- 🎓 Computer Science undergraduate at **UET Lahore**
+- 💼 Frontend Developer Intern, also building websites for local businesses as a freelancer
+- 🌱 Currently learning: **React, Next.js, TypeScript**
+- 📍 Based in Lahore, Pakistan
+- 📫 Open to internships, freelance work and collaborations
 
-🎓   Education: 3rd-Semester Student — UET Lahore
-💻   Role: Front-End Developer Intern
-🌐   Focus: Front-End Development & UI Design
-🌱   Currently: Learning, building, and improving
-🎯   Goal: Creating meaningful digital experiences
-02   Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-Languages & Web Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript"/>
-
-Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git, GitHub"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-03   Featured Projects
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**Project One**](LINK) | Short one-line description | HTML, CSS, JS |
+| [**Project Two**](LINK) | Short one-line description | React, Tailwind |
+| [**Project Three**](LINK) | Short one-line description | Django, CSS |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_REPOSITORY"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_REPOSITORY&theme=tokyonight&hide_border=true" alt="Featured Project"/> </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nayabazeem-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayabazeem-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-I enjoy developing websites that combine thoughtful design with practical functionality.
+---
 
-Areas of interest:
-
-Responsive website development
-Modern landing pages
-Interactive user interfaces
-Educational websites and web applications
-
-Replace the sample repository information above with an actual project from your GitHub account.
-
-04   GitHub Analytics
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+Have a project in mind? Let's build something great together.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+**[📧 Email Me](mailto:YOUR-EMAIL)** · **[💼 LinkedIn](https://linkedin.com/in/YOUR-LINK)** · **[🌐 Portfolio](https://YOUR-PORTFOLIO.com)**
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+⭐ *If you like my work, drop a star on my repos!*
 
 </div>
-
-05   Beyond the Code
-
-I believe that becoming a great developer is about more than writing code. It's about curiosity, consistency, problem-solving, and the willingness to keep learning.
-
-I'm working toward becoming a developer who can turn complex ideas into simple, accessible, and engaging digital experiences.
-
-06   Let's Connect
-
-<div align="center">
-
-Have a project, an idea, or an opportunity?
-
-I'm always interested in connecting with developers, learning from the community, and exploring opportunities to grow.
-
-<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/> </a>
-
-<br/><br/>
-
-Nayab Azeem
-Front-End Developer Intern · UET Lahore
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="Footer"/>
-
-</div>
-
  
 
 
